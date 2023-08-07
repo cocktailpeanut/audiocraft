@@ -1,0 +1,4 @@
+--index-url https://download.pytorch.org/whl/rocm5.4.2
+torch
+torchvision
+torchaudio
